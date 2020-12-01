@@ -1,0 +1,1 @@
+Save model! model_name:1 2020-12-01 16:23:13 98.54000	save_time:2020-12-01 16:23:13	test_acc:98.54000Save model! model_name:2 2020-12-01 16:40:04 98.84000	save_time:2020-12-01 16:40:04	test_acc:98.84000Save model! model_name:3 2020-12-01 16:56:55 98.26000	save_time:2020-12-01 16:56:55	test_acc:98.26000
